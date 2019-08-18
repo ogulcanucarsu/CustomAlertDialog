@@ -13,8 +13,8 @@ Tech Stack
 	
 Screen shots
 
-![image](https://{i.postimg.cc/WdYN6SP0/Ekran-Resmi-2019-08-18-01-06-13.png})
+![image](https://{github.com/ogulcanucarsu/CustomAlertDialog/blob/master/screenshoots/Ekran%20Resmi%202019-08-18%2001.06.13.png})
 
-![image](https://{i.postimg.cc/94vcsM0M/Ekran-Resmi-2019-08-18-01-06-27.png})
+![image](https://{/github.com/ogulcanucarsu/CustomAlertDialog/blob/master/screenshoots/Ekran%20Resmi%202019-08-18%2001.06.27.png})
 
-![image](https://{i.postimg.cc/2bhCYDLx/Ekran-Resmi-2019-08-18-01-07-01.png})
+![image](https://{github.com/ogulcanucarsu/CustomAlertDialog/blob/master/screenshoots/Ekran%20Resmi%202019-08-18%2001.07.01.png})
